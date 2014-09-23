@@ -29,7 +29,11 @@ A: Help plan the planning. Fork this repo, add ideas, lists of things that need 
 
 Q: Do you have a date, venue, name, or really, anything at all?
 
-A: No. But YOU do.
+A: No. But lets figure it out.
+
+Q: A conference can not be run democratically, it will be like design by committee.
+
+A: Agreed. There will need to be one or two primary organizers. I could be one of them, but I don't have to be if someone more qualified was interested. 
 
 Q: What is Baghdad by the Bay?
 
