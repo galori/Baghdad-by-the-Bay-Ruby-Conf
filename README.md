@@ -20,7 +20,7 @@ A: I don't know. But I'd like to try.
 
 Q: Do you have the time, money or skill to organize an entire conference?
 
-A: No. But YOU do. All of you. All of you that will help make this happen.
+A: No. I have some of each. But YOU do. All of you. All of you that will help make this happen.
 
 
 Q: What is the first step?
