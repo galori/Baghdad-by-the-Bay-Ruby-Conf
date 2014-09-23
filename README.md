@@ -53,7 +53,7 @@ What is needed?
 7. Talk proposals 
 8. A process for selecting talks (or a person)
 
-Note: please help by modifying the plan for the plan. I'm sure I left out a lot of important things. The Unknown Unknowns, if to borrow a term fro @wycats.
+Note: please help by modifying the plan for the plan. I'm sure I left out a lot of important things. The Unknown Unknowns, if to borrow a term from @wycats.
 
 
 #### People willing to participate in person:
