@@ -56,11 +56,11 @@ What is needed?
 Note: please help by modifying the plan for the plan. I'm sure I left out a lot of important things. The Unknown Unknowns, if to borrow a term fro @wycats.
 
 
-People willing to participate in person:
+#### People willing to participate in person:
 
-Me (@galori) - Gal Steinitz - https://twitter.com/galori 
-TODO: Put your name here
+1. Me (@galori) - Gal Steinitz - https://twitter.com/galori 
+2. TODO: Put your name here
 
-People willing to participate remotely:
+#### People willing to participate remotely:
 
-TODO: Put your name here
+2. TODO: Put your name here
