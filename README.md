@@ -1,9 +1,9 @@
-Baghdad by the Bay Ruby Conf
-============================
+### Baghdad by the Bay Ruby Conf
 
-# The new, open source, San Francisco Ruby Conference.
 
-San Francisco needs a new Ruby Conference.  
+#### The new, open source, San Francisco Ruby Conference.
+
+##### San Francisco needs a new Ruby Conference.  
 
 FAQ:
 
