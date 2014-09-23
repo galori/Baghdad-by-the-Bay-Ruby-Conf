@@ -44,7 +44,7 @@ The plan for the plan
 
 What is needed?
 
-1. A list of jobs, skills or people that will be required. (chief organizer, talk curator, logistics manager, general staff, etc.
+1. A list of jobs, skills or people that will be required. (chief organizer, talk curator, logistics manager, general staff, etc.)
 2. A name 
 3. A venue
 4. A business plan
