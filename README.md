@@ -15,7 +15,7 @@ A: At the 2014 Golden Gate Ruby Conference, the organizers anounced that this ye
 
 Q: Can a conference be organized via open source?
 
-A:I don't know. But I'd like to try. 
+A: I don't know. But I'd like to try. 
 
 
 Q: Do you have the time, money or skill to organize an entire conference?
@@ -35,6 +35,9 @@ Q: What is Baghdad by the Bay?
 
 A: It is one of the nicknames listed on Wikipedia as nicknames for San Francisco (http://en.wikipedia.org/wiki/List_of_city_nicknames_in_California)
 
+Q: What can I do to help?
+
+A: Fork this repo, and help flesh out the details. Seriously.
 
 The plan for the plan
 =====================
@@ -53,3 +56,11 @@ What is needed?
 Note: please help by modifying the plan for the plan. I'm sure I left out a lot of important things. The Unknown Unknowns, if to borrow a term fro @wycats.
 
 
+People willing to participate in person:
+
+Me (@galori) - Gal Steinitz - https://twitter.com/galori 
+TODO: Put your name here
+
+People willing to participate remotely:
+
+TODO: Put your name here
